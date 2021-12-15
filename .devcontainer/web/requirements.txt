@@ -1,0 +1,5 @@
+django == 3.2.3
+psycopg2-binary
+django-allauth
+Pillow==8.4.0
+
